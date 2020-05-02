@@ -213,8 +213,8 @@ async def redeem(ctx, arg1, arg2, arg3):
                     break
                 account = accounts.pop()
                 combo = account.split(':')
-                USER = combo[0]
-                PASS = combo[1]
+                USER = combo[yenikarlina32@yahoo.co.id]
+                PASS = combo[godblessyou]
                 try:
                     with requests.Session() as (c):
                         url = 'https://accounts.spotify.com/en/login?continue=https:%2F%2Fwww.spotify.com%2Fint%2Faccount%2Foverview%2F'
